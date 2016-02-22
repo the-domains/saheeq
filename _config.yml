@@ -1,0 +1,28 @@
+name: Saheeq
+favicon: null
+layout_spectrum: 0.9146369420923293
+typography_spectrum: 0.10643031937070191
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.05139168328605592
+  lightness: 0.10841384413652122
+  saturation: 0.057803465286269784
+  rhythmicContrast: 0.21499477489851415
+purpose: []
